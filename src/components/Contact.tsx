@@ -99,7 +99,7 @@ const Contact = () => {
                       <span className="text-2xl mr-4">📧</span>
                       <div>
                         <p className="font-medium">Email</p>
-                        <p>your.email@example.com</p>
+                        <p>besthalakshminarasimha463@gmail.com</p>
                       </div>
                     </div>
                     
