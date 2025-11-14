@@ -17,8 +17,8 @@ const Projects = () => {
       tech: ['Python', 'TensorFlow', 'Keras', 'OpenCV'],
       category: 'AIML',
       image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=300&fit=crop',
-      github: 'https://github.com/Besthalakshminarasimha',
-      demo: '#'
+      github: 'https://github.com/Besthalakshminarasimha/scope-flow-ai',
+      demo: 'https://blnvisionx.netlify.app'
     },
     {
       title: 'Smart Dashboard',
@@ -35,8 +35,8 @@ const Projects = () => {
       tech: ['Python', 'NLTK', 'Scikit-learn', 'Pandas'],
       category: 'AIML',
       image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop',
-      github: 'https://github.com/Besthalakshminarasimha',
-      demo: '#'
+      github: 'https://github.com/Besthalakshminarasimha/scope-flow-ai',
+      demo: 'https://blnvisionx.netlify.app'
     },
     {
       title: 'E-Commerce Platform',
@@ -53,8 +53,8 @@ const Projects = () => {
       tech: ['Python', 'OpenCV', 'YOLO', 'NumPy'],
       category: 'AIML',
       image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=300&fit=crop',
-      github: 'https://github.com/Besthalakshminarasimha',
-      demo: '#'
+      github: 'https://github.com/Besthalakshminarasimha/scope-flow-ai',
+      demo: 'https://blnvisionx.netlify.app'
     },
     {
       title: 'Task Management App',
